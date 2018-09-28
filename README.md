@@ -8,5 +8,5 @@
          
 2. Learn data-science vs MachineLearning vs AI vs Deep Learning
 
-3.
+3.How do I learn machine learning?
 
