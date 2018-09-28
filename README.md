@@ -6,5 +6,7 @@
          Scikit learn,
          Scipy
          
-2. Learn data-science vs MachineLearning
+2. Learn data-science vs MachineLearning vs AI vs Deep Learning
+
+3.
 
